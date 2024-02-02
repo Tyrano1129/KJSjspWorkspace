@@ -7,10 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="./ex05_form04.jsp" method="get">
-첫번째 : <input type="text" name="number1"> <br>
-두번쨰 : <input type="text" name="number2"> <br>
-<button> 전송 submit</button>
-</form>
+<h1> 홈 화면</h1>
+<a href="join.jsp">회원가입</a>
+<a href="login.jsp">로그인</a>
 </body>
 </html>
