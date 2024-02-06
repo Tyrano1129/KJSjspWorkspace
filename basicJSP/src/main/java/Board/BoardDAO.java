@@ -59,9 +59,9 @@ public class BoardDAO {
 		BoardVO.setCurNo(1);
 	}
 	
-	public int startNumber() {
-		int total = boardList.size();
-		int onePage = 5;
-	}
+//	public int startNumber() {
+//		int total = boardList.size();
+//		int onePage = 5;
+//	}
 	
 }
